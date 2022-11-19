@@ -1,0 +1,6 @@
+# .NET compiled files
+bin/
+obj/
+
+# IDE
+.vscode/
